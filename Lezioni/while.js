@@ -4,13 +4,6 @@ function main() {
         console.log('ciao!')
         i = i + 1
     } // ciclo di 5 iterazioni.
-
-
-
-
-
-
 }
-
 
 main()
